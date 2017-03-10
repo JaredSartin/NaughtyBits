@@ -1,0 +1,19 @@
+{
+  "name": "naughty-bits",
+  "version": "1.0.0",
+  "description": "small tool to help filter and clear words on inputs",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JaredSartin/NaughtyBits.git"
+  },
+  "author": "Jared Sartin <jaredsartin@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JaredSartin/NaughtyBits/issues"
+  },
+  "homepage": "https://github.com/JaredSartin/NaughtyBits#readme"
+}
